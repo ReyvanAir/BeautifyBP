@@ -1,0 +1,25 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.1.0",
+	"FriendlyName": "Beautify BP",
+	"Description": "One-click layout for Blueprint graphs: arranges the graph you're viewing, or only the selected nodes, in a single undo step.",
+	"Category": "Editor",
+	"CreatedBy": "ReyvanAir",
+	"CreatedByURL": "https://github.com/ReyvanAir",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.8.0",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": true,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "BeautifyBP",
+			"Type": "Editor",
+			"LoadingPhase": "PostEngineInit"
+		}
+	]
+}
